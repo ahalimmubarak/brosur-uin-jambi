@@ -3,7 +3,7 @@
 <main>
 
     <!-- HERO -->
-    <section class="bg-[#a8dff8] bg-[url('http://brosur-uinjambi.test/wp-content/uploads/2026/01/hero.png')] bg-contain bg-no-repeat bg-center lg:grid h-120 -mt-20">
+    <section class="bg-[#a8dff8] bg-[url('https://brosur.uinjambi.ac.id/wp-content/uploads/2026/01/hero.png')] bg-contain bg-no-repeat bg-center lg:grid h-120 -mt-20">
     </section>
 
     <section class="bg-white h-1">
@@ -32,7 +32,7 @@
             <div class="flex flex-col text-center mb-24">
                 <h1 class="sm:text-3xl text-2xl font-semibold title-font mb-10 text-gray-900">Brosur Penerimaan Mahasiswa Baru UIN Jambi Tahun Akademik 2026/2027</h1>
                 <a href="http://example.com" target="_blank" rel="noopener" class="inline-block group">
-                    <img alt="gallery" class="h-150 w-full object-contain mb-4 transition-transform duration-300 group-hover:scale-105" src="http://brosur-uinjambi.test/wp-content/uploads/2026/01/Brosur-2026-v.8_001.png">
+                    <img alt="gallery" class="h-150 w-full object-contain mb-4 transition-transform duration-300 group-hover:scale-105" src="https://brosur.uinjambi.ac.id/wp-content/uploads/2026/01/Brosur-2026-v.8_001.png">
                 </a>
                 <a href="http://" class="inline-block mx-auto bg-linear-to-r from-primary to-blue-700 text-white text-base py-3 px-6 rounded-full">
                     Unduh PDF (2MB)
@@ -48,7 +48,7 @@
                 <div class="lg:w-1/3 sm:w-1/2 p-4">
                     <div class="flex relative">
                         <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                            src="http://brosur-uinjambi.test/wp-content/uploads/2026/01/DSC06482.jpg">
+                            src="https://brosur.uinjambi.ac.id/wp-content/uploads/2026/01/DSC06465.jpg">
                         <div
                             class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
@@ -62,7 +62,7 @@
                 <div class="lg:w-1/3 sm:w-1/2 p-4">
                     <div class="flex relative">
                         <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                            src="http://brosur-uinjambi.test/wp-content/uploads/2026/01/DSC06465.jpg">
+                            src="https://brosur.uinjambi.ac.id/wp-content/uploads/2026/01/DSC06465.jpg">
                         <div
                             class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
@@ -76,7 +76,7 @@
                 <div class="lg:w-1/3 sm:w-1/2 p-4">
                     <div class="flex relative">
                         <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                            src="http://brosur-uinjambi.test/wp-content/uploads/2026/01/DSC06464.jpg">
+                            src="https://brosur.uinjambi.ac.id/wp-content/uploads/2026/01/DSC06465.jpg">
                         <div
                             class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
@@ -90,7 +90,7 @@
                 <div class="lg:w-1/3 sm:w-1/2 p-4">
                     <div class="flex relative">
                         <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                            src="http://brosur-uinjambi.test/wp-content/uploads/2026/01/DSC06455.jpg">
+                            src="https://brosur.uinjambi.ac.id/wp-content/uploads/2026/01/DSC06465.jpg">
                         <div
                             class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
@@ -104,7 +104,7 @@
                 <div class="lg:w-1/3 sm:w-1/2 p-4">
                     <div class="flex relative">
                         <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                            src="http://brosur-uinjambi.test/wp-content/uploads/2026/01/DSC06588.jpg">
+                            src="https://brosur.uinjambi.ac.id/wp-content/uploads/2026/01/DSC06465.jpg">
                         <div
                             class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE
@@ -118,7 +118,7 @@
                 <div class="lg:w-1/3 sm:w-1/2 p-4">
                     <div class="flex relative">
                         <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                            src="http://brosur-uinjambi.test/wp-content/uploads/2026/01/DSC06604.jpg">
+                            src="https://brosur.uinjambi.ac.id/wp-content/uploads/2026/01/DSC06465.jpg">
                         <div
                             class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE

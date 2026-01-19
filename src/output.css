@@ -7,12 +7,8 @@
     --font-sans: "Inter", sans-serif;
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
-    --color-teal-600: oklch(60% 0.118 184.704);
-    --color-blue-600: oklch(54.6% 0.245 262.881);
     --color-blue-700: oklch(48.8% 0.243 264.376);
-    --color-indigo-400: oklch(67.3% 0.182 276.935);
     --color-indigo-500: oklch(58.5% 0.233 277.117);
-    --color-indigo-600: oklch(51.1% 0.262 276.966);
     --color-gray-100: oklch(96.7% 0.003 264.542);
     --color-gray-200: oklch(92.8% 0.006 264.531);
     --color-gray-400: oklch(70.7% 0.022 261.325);
@@ -36,10 +32,6 @@
     --text-2xl--line-height: calc(2 / 1.5);
     --text-3xl: 1.875rem;
     --text-3xl--line-height: calc(2.25 / 1.875);
-    --text-4xl: 2.25rem;
-    --text-4xl--line-height: calc(2.5 / 2.25);
-    --text-5xl: 3rem;
-    --text-5xl--line-height: 1;
     --font-weight-medium: 500;
     --font-weight-semibold: 600;
     --font-weight-bold: 700;
@@ -435,8 +427,8 @@
     }
     background-image: linear-gradient(var(--tw-gradient-stops));
   }
-  .bg-\[url\(\'http\:\/\/brosur-uinjambi\.test\/wp-content\/uploads\/2026\/01\/hero\.png\'\)\] {
-    background-image: url('http://brosur-uinjambi.test/wp-content/uploads/2026/01/hero.png');
+  .bg-\[url\(\'https\:\/\/brosur\.uinjambi\.ac\.id\/wp-content\/uploads\/2026\/01\/hero\.png\'\)\] {
+    background-image: url('https://brosur.uinjambi.ac.id/wp-content/uploads/2026/01/hero.png');
   }
   .from-primary {
     --tw-gradient-from: var(--color-primary);
