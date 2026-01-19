@@ -3,30 +3,48 @@
 <main>
 
     <!-- HERO -->
-    <section class="text-gray-600 bg-[#b8c1f3] -mt-20">
-        <div class="max-w-7xl mx-auto flex px-5 md:flex-row flex-col items-center">
-            <div class="lg:grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left pt-40 md:pt-0 md:pb-0 items-center text-center">
-                <h1 class="sm:text-[40px]/snug text-3xl mb-4 font-bold text-gray-900">Selamat Datang di <br>Download Brosur UIN Jambi
-                    <br class="hidden lg:inline-block">Tahun Akademik 2026/2027
-                </h1>
-            </div>
-            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 h-100">
-                <img class="object-contain object-center rounded" alt="hero" src="http://brosur-uinjambi.test/wp-content/uploads/2026/01/siswa-scaled.png">
+    <section class="bg-[#a8dff8] bg-[url('http://brosur-uinjambi.test/wp-content/uploads/2026/01/hero.png')] bg-contain bg-no-repeat bg-center lg:grid h-120 -mt-20">
+    </section>
+
+    <section class="bg-white h-1">
+    </section>
+
+    <section class="bg-linear-to-r from-primary to-blue-700 h-50 md:h-30 place-content-center">
+        <div class="mx-auto max-w-7xl px-5">
+            <div class="flex flex-col md:flex-row mx-auto text-left gap-3 md:gap-6 items-center">
+                <div class="md:w-1/2">
+                    <h1 class="text-xl text-center md:text-left md:text-2xl font-semibold text-gray-100">
+                        Selamat Datang di Brosur <br>UIN Sulthan Thaha Saifuddin Jambi
+                    </h1>
+                </div>
+                <div class="md:w-1/2">
+                    <p class="text-base text-center md:text-left text-pretty text-gray-100">
+                        Temukan informasi lengkap mengenai program studi, fasilitas, dan kehidupan kampus di UIN Sulthan Thaha Saifuddin Jambi. Panduan digital untuk mengenal kampus kami lebih dekat.
+                    </p>
+                </div>
             </div>
         </div>
     </section>
-
+    
     <!-- Brosur -->
     <section class="text-gray-600">
-        <div class="max-w-7xl px-5 py-24 mx-auto">
-            <div class="flex flex-col text-center w-full mb-20">
-                <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Master Cleanse Reliac
-                    Heirloom</h1>
-                <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn
-                    asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them
-                    man bun deep jianbing selfies heirloom.</p>
+        <div class="max-w-7xl px-5 py-15 mx-auto">
+            <div class="flex flex-col text-center mb-24">
+                <h1 class="sm:text-3xl text-2xl font-semibold title-font mb-10 text-gray-900">Brosur Penerimaan Mahasiswa Baru UIN Jambi Tahun Akademik 2026/2027</h1>
+                <a href="http://example.com" target="_blank" rel="noopener" class="inline-block group">
+                    <img alt="gallery" class="h-150 w-full object-contain mb-4 transition-transform duration-300 group-hover:scale-105" src="http://brosur-uinjambi.test/wp-content/uploads/2026/01/Brosur-2026-v.8_001.png">
+                </a>
+                <a href="http://" class="inline-block mx-auto bg-linear-to-r from-primary to-blue-700 text-white text-base py-3 px-6 rounded-full">
+                    Unduh PDF (2MB)
+                </a>
             </div>
-            <div class="flex flex-wrap -m-4">
+
+            <div class="flex flex-col text-center mb-24">
+                <h1 class="sm:text-3xl text-2xl font-semibold title-font mb-6 text-gray-900">Brosur Program Sarjana (S1) & Pascasarjana  UIN STS Jambi Tahun Akademik 2026/2027</h1>
+
+            </div>
+
+            <div class="flex flex-wrap">
                 <div class="lg:w-1/3 sm:w-1/2 p-4">
                     <div class="flex relative">
                         <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"

@@ -3,6 +3,7 @@
 
 @theme {
     --font-sans: "Inter", sans-serif;
+    --color-primary: #004187;
 }
 
 @layer components {

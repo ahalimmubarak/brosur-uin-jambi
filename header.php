@@ -36,7 +36,7 @@
                 ]);
             ?>
                 <a href="#"
-                    class="ml-4 inline-flex items-center px-4 py-2 rounded-full bg-[#004187] text-white text-sm hover:bg-[#0255ad]">
+                    class="ml-4 inline-flex items-center px-4 py-2 rounded-full bg-linear-to-r from-primary to-blue-700 text-white text-sm">
                     Download
                 </a>
             </nav>
@@ -72,7 +72,7 @@
                         ]);
                         ?>
                         <a href="#"
-                            class="mt-2 inline-flex justify-center px-4 py-2 rounded-md bg-teal-600 text-white text-sm">
+                            class="mt-2 inline-flex justify-center px-4 py-2 rounded-md bg-linear-to-r from-primary to-blue-700 text-white text-sm">
                             Download
                         </a>
                     </nav>
